@@ -1,5 +1,0 @@
-{{#tripathiharish2001}}
-Name: Harish Tripathi
-Skills: HTML, CSS, JS, Next.js
-Email: harishtripathidtu@gmail.com
-{{/tripathiharish2001}}
